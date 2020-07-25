@@ -30,10 +30,7 @@ John need to deliver food from his shop to his customers, so he has order#1, ord
     - Unit and Integration testing such as
         - [jest](https://jestjs.io/)
         - others
-    - UI testing with automate testing tools such as
-       - [cypress](https://www.cypress.io/)
-       - [Robot Framework](https://robotframework.org/)
-       - [katalon](https://www.katalon.com/)
+    - Coding Style (clean?, easy readable?
     
 - Scoring criteria
 
@@ -41,7 +38,7 @@ John need to deliver food from his shop to his customers, so he has order#1, ord
     |-|-|-|
     |Core Functioality|:white_check_mark:|50|
     |Map/UX/UI|:white_check_mark:|20|
-    |REST with Mockery|:white_check_mark:|10|
+    |REST with Mocky.io|:white_check_mark:|10|
     |Bonus|:white_large_square:|20|
 
 
