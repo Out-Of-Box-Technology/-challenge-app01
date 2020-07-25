@@ -2,7 +2,7 @@
 
 :warning: Please read the following requirement and condition before coding!
 - Assume that you are assigned to implement food delivery app
-- Each job may has multi drop off destination
+- Each job may has multiple drop off points
 
 #### Example
 John need to deliver food from his shop to his customers, so he has order#1, order#2, order#3 need to deliver in the same route
