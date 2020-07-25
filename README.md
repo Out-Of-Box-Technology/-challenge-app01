@@ -7,7 +7,7 @@
 #### Example
 John need to deliver food from his shop to his customers, so he has order#1, order#2, order#3 need to deliver in the same route
     
-- Ex. drder and drop off location 
+- Ex. order and drop off points 
     
     |Order|Address|
     |-|-|
