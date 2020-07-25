@@ -50,7 +50,7 @@ John need to deliver food from his shop to his customers, so he has order#1, ord
 
 1. Fork this GitHub project.
 2. Open `issue` feature in your repository (Options > Features > Checked on Issues) [#Reference](https://softwareengineering.stackexchange.com/questions/179468/forking-a-repo-on-github-but-allowing-new-issues-on-the-fork)
-3. Put your code in the `exercise` folder.
+3. Put your code in the `code` folder.
 4. Also provide instruction to run your project
 
 Any question? :see_no_evil::hear_no_evil::speak_no_evil:
